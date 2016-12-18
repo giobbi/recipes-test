@@ -13,7 +13,7 @@
     <key>Input</key>
     <dict>
         <key>MUNKI_REPO_SUBDIR</key>
-        <string>apps/NordeaSCDriver</string>
+        <string>drivers/NordeaSCDriver</string>
         <key>NAME</key>
         <string>Nordea Smartcard Driver</string>
         <key>pkginfo</key>
