@@ -37,25 +37,6 @@
     <key>Process</key>
     <array>
         <dict>
-            <key>Processor</key>
-            <string>MunkiPkginfoMerger</string>
-            <key>Arguments</key>
-            <dict>
-                <key>additional_pkginfo</key>
-                <dict>
-                    <key>installs</key>
-                    <array>
-                        <dict>
-                            <key>CFBundleIdentifier</key>
-                            <string>com.getnordea.nordeascdriver</string>
-                            <key>CFBundleName</key>
-                            <string>NordeaSCDriver</string>
-                        </dict>
-                    </array>
-                </dict>
-            </dict>
-        </dict>
-        <dict>
             <key>Arguments</key>
             <dict>
                 <key>pkg_path</key>
