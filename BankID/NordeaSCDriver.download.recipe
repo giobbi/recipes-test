@@ -5,11 +5,11 @@
     <key>Description</key>
     <string>Downloads the current release version of BankID</string>
     <key>Identifier</key>
-    <string>com.github.giobbi.download.bankid</string>
+    <string>com.github.giobbi.download.nordeascdriver</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
-        <string>BankID</string>
+        <string>Nordea Smartcard Driver</string>
     </dict>
     <key>MinimumVersion</key>
     <string>0.4.0</string>
@@ -19,7 +19,7 @@
             <key>Arguments</key>
             <dict>
             	<key>url</key>
-            	<string>https://install.bankid.com/FileDownloader?fileId=Mac</string>
+            	<string>http://www.nordea.se/Images/39-87700/Drivrutiner-NCR1-MacOSX-ElCapitan.pkg</string>
                 <key>filename</key>
                 <string>%NAME%.pkg</string>
             </dict>
@@ -35,7 +35,7 @@
 			<dict>
 				<key>expected_authority_names</key>
 				<array>
-					<string>Developer ID Installer: Finansiell ID-Teknik BID AB</string>
+					<string>Developer ID Installer: Gemalto SA (TR37863VGD)</string>
 					<string>Developer ID Certification Authority</string>
 					<string>Apple Root CA</string>
 				</array>
