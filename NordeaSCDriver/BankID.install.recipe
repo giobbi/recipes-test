@@ -5,14 +5,14 @@
     <key>Description</key>
     <string>Downloads and installs the latest BankID.</string>
     <key>Identifier</key>
-    <string>com.github.giobbi.install.bankid</string>
+    <string>com.github.giobbi.install.nordeascdriver</string>
     <key>Input</key>
     <dict>
     </dict>
     <key>MinimumVersion</key>
     <string>0.4.2</string>
     <key>ParentRecipe</key>
-    <string>com.github.giobbi.download.bankid</string>
+    <string>com.github.giobbi.download.nordeascdriver</string>
     <key>Process</key>
     <array>
         <dict>
